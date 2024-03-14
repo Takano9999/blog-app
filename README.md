@@ -7,25 +7,24 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🔭 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [🎯 Blog App](#-blog-app)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Clone Repo](#clone-repo)
+    - [Create database.yml file](#create-databaseyml-file)
+    - [Encrypted Credentials](#encrypted-credentials)
+    - [Run the server](#run-the-server)
+    - [Testing files](#testing-files)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [👋 Show your support ](#-show-your-support-)
+  - [❓ FAQ ](#-faq-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -101,7 +100,7 @@ you have to those tools in your local machine.
 Clone the project using the following bash command in an appropriate location.
 
 ```bash
-  git clone git@github.com:shahadat3669/blog-app.git
+  git clone git@github.com:ArtemFiniuk/blog-app.git
 ```
 
 Go to the project directory.
@@ -158,17 +157,6 @@ For testing you can run:
   rspec ./space
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-### First Author:
-
-**Shahadat Hossain**
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shahadat3669) [![linkedin](https://img.shields.io/badge/shahadat_cseng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahadat-cseng) [![twitter](https://img.shields.io/badge/@shahadat3669-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shahadat3669)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,15 +181,6 @@ Feel free to check the [issues page](../../../issues/).
 ## 👋 Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🔭Acknowledgments <a name="acknowledgements"></a>
-
-- My Family.
-- [Microverse Team](https://www.microverse.org/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
